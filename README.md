@@ -15,8 +15,15 @@ It focuses on practicing advanced Markdown styling for professional GitHub READM
 - Creating reusable project templates
 
 ## 📸 Screenshots
-> *(Replace this with actual project screenshot later)*  
-![Demo](https://via.placeholder.com/600x300.png?text=Markdown+Practice)
+
+### 🖥️ Markdown Preview in VS Code
+![VS Code Preview](assets/vscode-readme-preview.png)
+
+### 💻 Terminal: Repo Setup & Git Init
+![Terminal Step 1](assets/terminal-setup-step1.png)
+
+### ✅ Terminal: Push Success to GitHub
+![Terminal Push](assets/terminal-push-success.png)
 
 ## 🔗 Useful Links
 - [My GitHub](https://github.com/charan17kk)
@@ -26,8 +33,7 @@ It focuses on practicing advanced Markdown styling for professional GitHub READM
 git clone https://github.com/charan17kk/markdown-practice.git
 cd markdown-practice
 code README.md
-
-
+```
 
 ## 👨‍💻 Author  
 **Charan**  
